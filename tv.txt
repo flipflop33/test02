@@ -1,1 +1,2 @@
 New repository, cloned to desktop, added collaborator, created new file and will post to GitHub.
+folked from B github and cloned to desktop. Opened tv.txt and made changes and posted github.
